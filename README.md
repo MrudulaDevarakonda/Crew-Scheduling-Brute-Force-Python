@@ -6,6 +6,7 @@ Data set by Connecticut’s Department of Energy and Environmental Protection (C
 This data set contains the list of releases of substances to the environment, generally through accidental spills, starting from July 1996. You will find more details about this data set in the links below:
 
 https://data.ct.gov/Environment-and-Natural-Resources/Spill-Incidents/wr2a-rnsg
+
 https://data.ct.gov/resource/wr2a-rnsg.json
 
 As a part of EDA, enriching the data with at least one additional source of external data set.
