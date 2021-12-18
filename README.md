@@ -18,8 +18,10 @@ Let us suppose that Gc gallons spilled in all city c, and let us assume that Xc 
 
 ### Objectives: 
 The objective is to assign the crews to the cities to handle the incidents as quickly as possible using the Brute-Force method. We will consider two different scenarios, i.e., we will create two models, one for each of the problems below:
-a. Identify an assignment of crews to cities that minimizes the sum of the repair times, given by sum(Gc/Xc)
-b. Identify an assignment of crews to cities that minimizes the maximum repair time among all cities in C, given by max(Gc/Xc).
+
+a. Identify an assignment of crews to cities that minimizes the sum of the repair times, given by sum(Gc/Xc) where c belongs to the list of three cities considered for this problem.
+
+b. Identify an assignment of crews to cities that minimizes the maximum repair time among all cities in C, given by max(Gc/Xc) where c belongs to the list of three cities considered for this problem.
 
 ### Constraints
 The solutions for both problems should satisfy the following constraints:
