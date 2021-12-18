@@ -3,7 +3,7 @@ Optimization model for number of crews required to address the spill incidents a
 
 ### Data: 
 Data set by Connecticut’s Department of Energy and Environmental Protection (CT DEEP). 
-This data set contains the list of releases of substances to the environment, generally through accidental spills, starting from July 1996. You will find more details about this data set in the links below:
+This data set contains the list of releases of substances to the environment, generally through accidental spills, starting from July 1996. More details about this data set are in the links below:
 
 https://data.ct.gov/Environment-and-Natural-Resources/Spill-Incidents/wr2a-rnsg
 
