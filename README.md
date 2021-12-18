@@ -9,7 +9,7 @@ https://data.ct.gov/Environment-and-Natural-Resources/Spill-Incidents/wr2a-rnsg
 
 https://data.ct.gov/resource/wr2a-rnsg.json
 
-As a part of EDA, enriching the data with at least one additional source of external data set.
+_As a part of EDA, enriching the data with at least one additional source of external data set._
 
 ### Decision Variables
 We will assume that CT DEEP has assigned ten crews to address the incidents of the cities **Naugatuck, Danbury, and Middletown**.
@@ -24,6 +24,8 @@ a. Identify an assignment of crews to cities that minimizes the sum of the repai
 b. Identify an assignment of crews to cities that minimizes the maximum repair time among all cities in C, given by max(Gc/Xc) where c belongs to the list of three cities considered for this problem.
 
 ### Constraints
-The solutions for both problems should satisfy the following constraints:
+The solutions for both the problems should satisfy the following constraints:
+
 First, the number of crews available is ten, and each crew can only be assigned to one city. Therefore, if we assign six crews to a city, only four crews will be available for the other cities.
-For each city, at least one crew mus be assigned.
+
+For each city, at least one crew must be assigned.
