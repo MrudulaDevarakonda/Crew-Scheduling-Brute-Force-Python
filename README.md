@@ -16,7 +16,7 @@ We will assume that CT DEEP has assigned ten crews to address the incidents of t
 For each city c in C, we need to compute the total number of gallons spilled by all incidents in c. In the original dataset, we will find this information in the column ‘quangallons’. 
 Let us suppose that Gc gallons spilled in all city c, and let us assume that Xc crews were assigned to city c. Then, the repair time of all incidents in c is Gc/Xc, i.e., more crews solve the incidents faster.
 
-### Objectives: 
+### Objectives 
 The objective is to assign the crews to the cities to handle the incidents as quickly as possible using the Brute-Force method. We will consider two different scenarios, i.e., we will create two models, one for each of the problems below:
 
 a. Identify an assignment of crews to cities that minimizes the sum of the repair times, given by sum(Gc/Xc) where c belongs to the list of three cities considered for this problem.
